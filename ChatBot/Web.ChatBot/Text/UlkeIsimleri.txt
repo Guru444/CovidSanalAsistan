@@ -1,0 +1,208 @@
+32	Belarus,Beyaz Rusya
+1	ABD,Amerika birleşik devletleri,amerika
+2	Brezilya
+3	Hindistan
+4	Rusya,Rusya Federasyonu
+5	Güney Afrika
+6	Meksika
+7	peru
+8	şili
+9	ispanya
+10	ingiltere,birleşik krallık
+11	iran
+12	pakistan
+13	Suudi Arabistan
+14	Kolombiya
+15	İtalya
+16	Bangladeş
+17	Türkiye,ülkem
+18	Almanya
+19	fransa
+20	Arjantin
+21	ırak
+22	Kanada
+23	Katar
+24	Endonezya
+25	Mısır
+26	Kazakistan
+27	Filipinler
+28	Ekvador
+29	İsveç
+30	Umman
+31	Bolivya
+33	Ukrayna
+34	Belçika
+35	İsrail
+36	Kuveyt
+37	Dominik Cumhuriyeti	
+38	Panama
+39	UAE
+40	Hollanda
+41	Singapur
+42	Portekiz
+43	Romanya
+44	Guatemala
+45	Polonya
+46	Nijerya
+47	Bahreyn
+48	Honduras
+49	Ermenistan
+50	Afganistan
+51	İsviçre
+52	Kırgızistan
+53	Gana
+54	Azerbaycan
+55	Japonya
+56	Cezayir
+57	İrlanda
+58	Sırbistan
+59	Moldova
+60	Özbekistan
+61	Fas
+62	Avusturya
+63	Nepal
+64	Kenya
+65	Kamerun
+66	Kosta Rika
+67	Venezuela
+68	Fildişi Sahili,Fildişi Kıyısı
+69	Çekya,Çek Cumhuriyeti
+70	El Salvador
+71	Avustralya
+72	Etiyopya
+73	Güney Kore
+74	Danimarka
+75	Sudan
+76	Filistin
+77	Bosna Hersek
+78	Bulgaristan
+79	Kuzey Makedonya,Makedonya
+80	Madagaskar
+81	senegal
+82	Norveç
+83	Malezya
+84	Kongo Cumhuriyeti,Kongo
+85	Fransız Guyanası
+86	Finlandiya
+87	Haiti
+88	Tacikistan
+89	Gabon
+90	Gine
+91	Lüksemburg
+92	Moritanya
+93	Cibuti
+94	zambiya 
+95	Arnavutluk
+96	Hırvatistan 
+97	Orta Afrika cumhuriyeti
+98	Paraguay
+99	Macaristan
+100	Yunanistan
+101	Lübnan
+102	Malavi
+103	Nikaragua
+104	Maldivler
+105	Tayland
+106	Somali
+107	Kongo
+108	Ekvator Ginesi
+109	Libya
+110	Mayotte
+111	Karadağ
+112	Hong Kong
+113	Sri Lanka
+114	Zimbabve
+115	Küba
+116	Mali
+117	Esvatini
+118	Yeşil Burun Adaları
+119	Kuzey Sudan
+120	Slovakya
+121	Slovenya
+122	Estonya
+123	Litvanya
+124	Gine Bissau,Gine-Bissau
+125	Ruanda
+126	Namibya
+127	İzlanda
+128	Sierra Leone
+129	Benin
+130	Mozambik
+131	Yemen
+132	Yeni zelanda
+133	Surinam
+134	Tunus
+135	Letonya
+136	Uruguay
+137	ürdün
+138	Liberya
+139	Gürcistan
+140	uganda
+141	Nijer
+142	Burkina Faso
+143	Güney Kıbrıs Rum Kesimi
+144	Angora
+145	Çad
+146	Andorra
+147	Togo
+148	Sao Tome and Principe
+149	Jamaika
+150	Botsvana
+152	Malta
+153	San Marino
+154	Suriye
+156	Manş Adaları
+157	Tanzanya
+158	Lesotho
+159	Tayvan
+160	Vietnam
+161	Guyana
+162	Bahamalar
+163	Burundi
+164	Komorlar
+165	Myanmar
+166	Mauritius
+167	Man Adası
+168	Gambiya
+169	Moğolistan
+170	Martinik
+171	Eritre
+172	Kamboçya
+173	Faroe Adaları
+174	Guadeloupe
+175	Cayman Adaları
+176	Cebelitarık
+177	Bermuda
+178	Trinidad ve Tobago
+179	Brunei
+180	Aruba
+181	Monako
+182	Sint Maarten
+183	Seyşeller
+184	Barbados
+185	Turks ve Caicos Adaları
+186	Butan
+187	Antigua ve Barbuda
+188	Lihtenştayn
+189	Papua Yeni Gine
+190	Fransız Polinezyası
+191	Saint Vincent ve Grenadinler
+192	Aziz Martin
+193	Belize
+194	Macao
+196	Fiji
+199	Grenada
+200	Yeni Kaledonya
+201	Laos
+202	Dominika
+204	Grönland	
+205	Falkland adaları
+206	Montserrat
+207	vatikan
+208	Karayip Hollandası
+209	Batı Sahra
+211	İngiliz Virgin Adaları
+214	Anguilla
+
+
+

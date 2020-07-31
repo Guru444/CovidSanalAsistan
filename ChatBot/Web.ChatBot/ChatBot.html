@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Covid Sanal Asistan</title>
+    <link rel="icon" href="Img/virus.png">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="Css/ChatBot.css" rel="stylesheet" />
+
+    <style>
+        /* width */
+        ::-webkit-scrollbar {
+            width: 0px;
+        }
+
+        s
+        /* Track */
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+        }
+
+            /* Handle on hover */
+            ::-webkit-scrollbar-thumb:hover {
+                background: #555;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="chat_window">
+        <div class="top_menu">
+            <div class="buttons">
+                <div class="button close"></div>
+                <div class="button minimize"></div>
+                <div class="button maximize"></div>
+            </div>
+            <div class="title">Covid Sanal Asistan</div>
+        </div>
+        <ul class="messages"></ul>
+        <div class="bottom_wrapper clearfix">
+            <div class="message_input_wrapper">
+                <input class="message_input" placeholder="Mesajınızı buraya yazın..." />
+            </div>
+            <div class="send_message">
+                <div class="icon">
+
+                </div>
+                <div class="text">Gönder</div>
+            </div>
+        </div>
+    </div>
+    <div class="message_template">
+        <li class="message">
+            <div class="avatar"></div><div class="text_wrapper">
+                <div class="text">
+                </div>
+            </div>
+        </li>
+    </div>
+    <div class="loading-bar">
+        
+    </div>
+
+    <script src="Js/jsChatBott.js"></script>
+</body>
+</html>

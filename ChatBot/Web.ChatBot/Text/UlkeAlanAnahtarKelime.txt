@@ -1,0 +1,16 @@
+min	en düşük,en az
+max	en yüksek,en fazla,en çok		
+newCases	Yeni vaka,bugünkü vaka,bugünkü toplam,bugünkü durum,günlük vaka
+activeCases	aktif vaka,yeni vaka,güncel vaka,anlık vaka
+totalCases	toplam vaka,vaka sayısı
+newDeaths	yeni ölüm,yeni vefat,yeni ölü,bugünkü ölüm,bugün ölüm,bugünkü vefat,bugün vefat,bugünkü ölü,anlık ölüm,anlık ölü,bugün ölüm,bugün ölü,bugün can kaybı
+totalDeaths	toplam ölüm,toplam vefat,toplam ölü,toplam kayıp,ölüm sayısı,ölü sayısı,can kaybı,vefat sayısı
+newRecovered	yeni iyileşen,bugünkü iyileşen,bugün iyileşen hasta,yeni iyileşen hasta,bugün düzelen vaka,bugün düzelen hasta,yeni düzelen hasta,yeni kurtulan vaka,bugün kurtulan vaka,yeni kurtulan hasta,bugün kurtulan hasta
+totalRecovered	toplam iyileşen,toplam kurtulan,toplam hastalığı atlatan,tüm iyileşen,tüm kurtulan,tüm hastalığı atlatan 
+seriusCritical	kritik hasta,entübe,yoğun bakım,solunum yetmezliği,yapay solunum oluş,kritik hasta , kritik vaka
+totCases1MPOP	1 milyondaki vaka sayısı,bir milyondaki vaka sayısı,1 milyondaki hasta sayısı,bir milyondaki hasta sayısı
+deaths1MPOP	1 milyondaki ölüm sayısı,bir milyondaki ölüm sayısı,1 milyondaki ölü sayısı,bir milyondaki ölü sayısı,1 milyondaki vefat sayısı,bir milyondaki vefat sayısı	
+totalTest	toplam test
+test1MPOP	1 milyondaki test sayısı,bir milyondaki test sayısı
+population	Nüfus,popülasyon
+deathRate	ölüm oranı,ölüm yüzdesi,ölüm tahmin,vefat oranı,vefat yüzdesi
